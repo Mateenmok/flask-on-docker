@@ -6,8 +6,7 @@
 
 This repository demonstrates a fully containerized Flask web application using a modified Instagram tech stack. The app integrates Flask, PostgreSQL, Gunicorn, and Nginx using Docker and Docker Compose. It supports user data persistence via a PostgreSQL database, serves static files, and allows users to upload and view media files through a simple web interface.
 
-<!-- Add animated gif here once recorded -->
-<!-- ![Demo](services/web/project/static/demo.gif) -->
+![Demo](services/web/project/static/Docker2.gif)
 
 ## Build Instructions
 
